@@ -9,5 +9,5 @@
   <br>
 </h1>
 
-<h4 align="center">This app use openai</h4>
+<h4 align="center">This application uses openai it's free so you have to register on their site and generate a key. Also you can change the language easily (by default it is in French) :)</h4>
 
