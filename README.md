@@ -4,7 +4,7 @@
   <a href="#"><img src="https://media.wired.com/photos/59372233bef1fc4e58f9482a/master/w_2560%2Cc_limit/Musio_1920x1280.jpg" alt="Markdownify" width="600"></a>
   <br>
   <br>
-  Make robot friends in python
+  Make robot friends in python3.10
   <br>
   <br>
 </h1>
