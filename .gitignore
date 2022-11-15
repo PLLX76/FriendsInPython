@@ -1,0 +1,5 @@
+env
+*.bat
+build
+dist
+main.spec
