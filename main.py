@@ -12,8 +12,7 @@ voice=engine.getProperty('voices')
 engine.setProperty('voice','french')
 engine.setProperty("volume", 1)
 
-blagues = BlaguesApi.Jokes("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiODExOTc4NTY5NTA4NTg1NDkzIiwibGltaXQiOjEwMCwia2V5IjoiZUpWWEdldVpKY210Z3JhYjduUjFHRGFiQW9xY2gwT0VVTG0yOXlCTWdhWHBnUTNhbFoiLCJjcmVhdGVkX2F0IjoiMjAyMi0xMC0wN1QxOTowODo0NSswMDowMCIsImlhdCI6MTY2NTE2OTcyNX0.OXaRwmR_wEVOpq8pwls50emJGSjItVVaN4mEDyQOWgY")
-openai.api_key = "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"
+openai.api_key = "key"
 
 class ChatBot():
     def __init__(self, name):
